@@ -1,0 +1,89 @@
+{
+  "910d5e1c-6103-48f2-ae3a-53e23a6ef424": {
+    "created_at": "2025-07-16T17:01:49.727256",
+    "updated_at": "2025-07-16T17:01:53.187043",
+    "title": "official portal",
+    "messages": [
+      {
+        "seq": 1,
+        "role": "user",
+        "content": "official portal",
+        "timestamp": "2025-07-16T17:01:49.761556"
+      },
+      {
+        "seq": 2,
+        "role": "Virtual Assistant",
+        "content": "The official portal for accessing government services through Bangla Sahayata Kendra (BSK) is the WB eDistrict 2.0 portal. You can access it internally at this URL: http://10.10.98.51:8085/portal\n\nThis portal supports browsers like Chrome, Edge, and Mozilla. From here, users can register, log in, browse services and schemes, and apply for various government services available at BSK. If you need help guiding customers on how to use this portal, I can assist you with the steps.",
+        "timestamp": "2025-07-16T17:01:53.187043"
+      }
+    ],
+    "fresh_context": true,
+    "message_count": 2
+  },
+  "eb93d767-d70d-4d17-97ca-cf6cd86f5ef7": {
+    "created_at": "2025-07-16T18:44:11.822329",
+    "updated_at": "2025-07-16T18:44:31.952940",
+    "title": "hello",
+    "messages": [
+      {
+        "seq": 1,
+        "role": "user",
+        "content": "hello",
+        "timestamp": "2025-07-16T18:44:11.863617"
+      },
+      {
+        "seq": 2,
+        "role": "Virtual Assistant",
+        "content": "Hello! How can I assist you today with information about government services available at Bangla Sahayata Kendra (BSK)?",
+        "timestamp": "2025-07-16T18:44:15.457577"
+      },
+      {
+        "seq": 3,
+        "role": "user",
+        "content": "proces for swasthya sathi",
+        "timestamp": "2025-07-16T18:44:24.873201"
+      },
+      {
+        "seq": 4,
+        "role": "Virtual Assistant",
+        "content": "To apply for the Swasthya Sathi Card, you can follow these steps:\n\n1. **Online Application**:\n   - Visit the official portal: [Swasthya Sathi](https://swasthyasathi.gov.in).\n   - Click on \"Apply Online\" and then select \"Online Application For Swasthya Sathi Card\".\n\n2. **Mobile Number & OTP Verification**:\n   - Enter your mobile number in the designated field.\n   - Click on the “Get OTP” button.\n   - Enter the OTP received and submit.\n\n3. **General Form Fill-up Instructions**:\n   - Select your district from the dropdown list.\n   - If you reside in a Panchayat Area, choose your Block, Panchayat, and Village.\n   - If you reside in a Municipality Area, choose your Municipality Name and Ward Number.\n   - Choose your Social Category (SC / ST / OBC / Others).\n   - Enter your Department Name if you are employed.\n   - Provide your Office Name and Address (if applicable).\n   - Fill in your Residential Address along with the PIN Code.\n   - Enter the Name of the Applicant.\n   - Provide the Head of the Family (HoF) Name.\n   - Indicate if any family member receives Government Sponsored Health Insurance/Assurance by selecting YES/NO.\n\nAfter completing the form, submit it as per the instructions provided on the portal.\n\nIf you have any further questions or need additional details, feel free to ask!",
+        "timestamp": "2025-07-16T18:44:31.952940"
+      }
+    ],
+    "fresh_context": true,
+    "message_count": 4
+  },
+  "904b0aa9-47df-4a2e-9c0f-68064ac39bae": {
+    "created_at": "2025-07-17T11:41:23.123774",
+    "updated_at": "2025-07-17T11:44:27.546581",
+    "title": "hi could u give me info abo...",
+    "messages": [
+      {
+        "seq": 1,
+        "role": "user",
+        "content": "hi could u give me info about caste certificate",
+        "timestamp": "2025-07-17T11:41:23.130018"
+      },
+      {
+        "seq": 2,
+        "role": "Virtual Assistant",
+        "content": "Certainly! Here’s the information regarding the Caste Certificate:\n\n### Eligibility Criteria:\n- Individuals belonging to Scheduled Castes (SC), Scheduled Tribes (ST), or Other Backward Classes (OBC) in West Bengal can apply for a caste certificate.\n\n### Required Documents:\n- No documents are required to be uploaded for the online application of the caste certificate, but you must provide at least one of the following:\n  - EPIC Number (Elector's Photo Identity Card)\n\n### Application Steps:\n1. Visit the official portal: [Caste Certificate Portal](https://castcertificatewb.gov.in/)\n2. Select your District, Sub-Division, Municipality or Block, and Gram Panchayat or Ward from the dropdown menu.\n3. Choose your category: SC, ST, or OBC and select your Caste/Tribe/Community.\n4. Fill in your Full Name and Father's Name.\n5. Enter your Mobile Number (numeric only) and Email ID.\n6. Upload a scanned photograph (mandatory).\n7. Submit your application.\n\n### Processing Time:\n- The issuance of the caste certificate is free of cost, but the typical processing time is not specified in the provided documents.\n\nIf you need any more details or have further questions, feel free to ask!",
+        "timestamp": "2025-07-17T11:41:40.037598"
+      },
+      {
+        "seq": 3,
+        "role": "user",
+        "content": "And who are eligible",
+        "timestamp": "2025-07-17T11:44:22.762195"
+      },
+      {
+        "seq": 4,
+        "role": "Virtual Assistant",
+        "content": "To be eligible for a caste certificate, individuals must belong to one of the following categories:\n\n- **Scheduled Castes (SC)**\n- **Scheduled Tribes (ST)**\n- **Other Backward Classes (OBC)**\n\nAdditionally, applicants must provide their caste or community details during the application process. If you need more specific information or have further questions, let me know!",
+        "timestamp": "2025-07-17T11:44:27.546566"
+      }
+    ],
+    "fresh_context": true,
+    "message_count": 4
+  }
+}
