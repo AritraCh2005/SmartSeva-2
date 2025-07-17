@@ -53,23 +53,23 @@
 
 ```bash
 # Create virtual environment with Python 3.11
-python -m venv bsk_env
+python -m venv my_env
 
 # Activate the virtual environment
 # On Windows:
-bsk_env\Scripts\activate
+my_env\Scripts\activate
 # On macOS/Linux:
-source bsk_env/bin/activate
+source my_env/bin/activate
 ```
 
 #### Option B: Using Anaconda/Miniconda
 
 ```bash
 # Create conda environment with Python 3.11
-conda create -n bsk_env python=3.11 -y
+conda create -n my_env python=3.11 -y
 
 # Activate the conda environment
-conda activate bsk_env
+conda activate my_env
 ```
 
 ### Step 2: Install Dependencies
